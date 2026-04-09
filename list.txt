@@ -30,3 +30,18 @@ Sudan
 Nigeria
 Ghana
 Congo
+China
+Japan
+South Korea
+North Korea
+Singapore
+Iraq
+Pakistan
+Khazakstan
+Afganistan
+Saudi Arabia
+Russia
+Qatar
+Philipines
+Mongolia
+Turkey
